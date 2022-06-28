@@ -1,2 +1,9 @@
 # exportimport_ballxml
 Latihan bahasa pemrograman Java untuk export dan import tag dan attribut XML dari objek Rectangle2D atau Ellipse2D
+
+## Cara Penggunaan
+1. Import folder project ke IDE Java
+2. Run program dari Class CustomBounce
+3. Tekan button interaktivitas object bola sesuai keinginan
+4. Export objek ke file XML melalui DOM atau VstAX pada menubar export
+5. Import file XML yang telah dibuat apabila ingin reload objek melalui import XML pada menubar import
